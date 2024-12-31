@@ -1,2 +1,7 @@
 habbi
 second
+<<<<<<< Updated upstream
+=======
+third
+fourth
+>>>>>>> Stashed changes
